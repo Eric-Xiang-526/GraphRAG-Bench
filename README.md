@@ -1,3 +1,4 @@
+**We have migrated this project to https://github.com/GraphRAG-Bench/GraphRAG-Benchmark and look forward to your attention!**
 <div align="center">
 
 # GraphRAG-Bench : A Comprehensive Benchmark for Evaluating Graph Retrieval-Augmented Generation Models
